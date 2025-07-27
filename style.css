@@ -7,7 +7,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background: linear-gradient(to right, #fff6d5, #ffffff);
+  background: linear-gradient(90deg, #FFEFBA 0%, #FFFFFF 100%);
   color: #000;
 }
 
@@ -52,7 +52,7 @@ nav a {
 .contact-btn {
   padding: 10px 20px;
   border-radius: 25px;
-  background: linear-gradient(to right, #ff6b6b, #ffd93d);
+  background: linear-gradient(90deg, #FFE259 0%, #FFA751 100%);
   border: none;
   color: white;
   font-weight: bold;
@@ -95,7 +95,7 @@ nav a {
 .get-started-btn {
   padding: 12px 25px;
   border-radius: 25px;
-  background: linear-gradient(to right, #ff6b6b, #ffd93d);
+  background: linear-gradient(90deg, #FF4E50 0%, #F9D423 100%);
   border: none;
   color: white;
   font-weight: bold;
